@@ -1,1 +1,4 @@
+This link leads to official NBA headshots.
+Change the number at the end (before .png) to a player ID from the fetched season stats to change player.
+
 https://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/1641705.png
